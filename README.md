@@ -6,7 +6,8 @@ The purpose of this analysis is to observe and analyze weather patterns across d
 ## Results & Summary
 - The average temperature was higher for the month of June at 74.9 compared to that of December which was 71.0
 - The minimum temperature observed for December was lower at 56.0 while the minimum for June was 64
-- The maximum temperature was calculated to be 85 for the month of June which was higher than that of December at 83.
+- The maximum temperature was calculated to be 85 for the month of June which was higher than that of December at 83
+
 https://github.com/SNwokolo/Surfs_up/blob/bd2c3fa7416b88cd90bdd5a126698375ea5e4ba7/Dec_Temps.png
 
 https://github.com/SNwokolo/Surfs_up/blob/bd2c3fa7416b88cd90bdd5a126698375ea5e4ba7/June_Temps.png
